@@ -1,0 +1,7 @@
+DEPENDENCIES
+  common_packages
+    path: .
+    metadata: true
+
+GRAPH
+  common_packages (0.2.0)
